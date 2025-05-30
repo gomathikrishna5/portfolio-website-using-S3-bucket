@@ -1,3 +1,6 @@
+You can open the website using bucket through this link : http://gomathi123bucket.s3-website.ap-south-1.amazonaws.com
+
+
 This project demonstrates the deployment of a personal portfolio website utilizing Amazon Web
 Services (AWS) Simple Storage Service (S3) Static Website Hosting. The primary objective was to
 gain practical experience in hosting static web content on the cloud, enabling global public
